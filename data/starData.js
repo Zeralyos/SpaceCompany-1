@@ -2109,8 +2109,7 @@ Game.starData = (function(){
 		factionId: "moviton",
 		faction: "Moviton Syndicate",
 		resource1: "Titanium",
-		resource2: "Charcoal
-		",
+		resource2: "Charcoal",
 		stats: {
 			"power": 2969,
 			"defense": 1045,
